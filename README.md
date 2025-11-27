@@ -9,7 +9,7 @@ I love solving coding challenges, contributing to open-source, and sharing tech 
 ## 🚀 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-am-madhuk/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BiharGeeks)
-[![Topmate](https://img.shields.io/badge/Topmate-FF6C37?style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io)
+[![Topmate](https://img.shields.io/badge/Topmate-FF6C37?style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io/madhuk)
 
 ---
 
