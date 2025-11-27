@@ -1,6 +1,6 @@
 # Hi, I'm Madhu Kumari 👋
 
-I'm an **Associate Staff Engineer at Nagarro** with **7 years of experience** in backend development, building **Java & Spring Boot microservices**, **AWS cloud solutions**, and **API design**.  
+I'm an **Associate Staff Engineer at Nagarro** with **8 years of experience** in backend development, building **Java & Spring Boot microservices**, **AWS cloud solutions**, and **API design**.  
 
 I love solving coding challenges, contributing to open-source, and sharing tech insights on **LinkedIn** and **YouTube (BiharGeeks)**.
 
@@ -36,10 +36,9 @@ I love solving coding challenges, contributing to open-source, and sharing tech 
 ---
 
 ## 🏆 Achievements
-- Arctic Code Vault Contributor  
 - HackerRank Java Certified  
 - AWS Certified Cloud Practitioner  
-- 7+ years experience in Java, Spring Boot, AWS, Microservices  
+- 8+ years experience in Java, Spring Boot, AWS, Microservices  
 
 ---
 
