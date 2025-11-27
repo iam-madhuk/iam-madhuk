@@ -38,7 +38,7 @@ I love solving coding challenges, contributing to open-source, and sharing tech 
 ## 🏆 Achievements
 - HackerRank Java Certified  
 - AWS Certified Cloud Practitioner  
-- 8+ years experience in Java, Spring Boot, AWS, Microservices  
+- 8+ years experience in Java, Spring Boot, AWS, Microservices, AI
 
 ---
 
